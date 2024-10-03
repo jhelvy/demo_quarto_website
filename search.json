@@ -7,10 +7,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "This is my teaching page"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "website",
     "section": "",
-    "text": "This is my personal website"
+    "text": "This is my personal website\nmake a change\nMore changes!"
   }
 ]
